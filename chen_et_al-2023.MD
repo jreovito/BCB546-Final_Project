@@ -13,6 +13,7 @@ In summary, this figure is depicting the pairwise relationships between replicat
 in examining the correlation between the fluorescence levels calculated by the simple mean between the three replicates. The first plot (rep1 vs rep2) indicates a correlation of 0.95,
 meaning the data are highly positively correlated. The second plot (rep1 vs rep3) is also indicating a positive correlation given R = 0.957. 
 Lastly, the third plot (rep2 vs rep3) is also indicating a positive correlation given R = 0.961, which is even greater than plots 1 and 2.
+In comparison to the figure 1B results from the paper, we can see that our group got the same correlation coefficients, but different slopes for each of the regressions. This could be for various reasons, one being that the paper may have transformed their data in some sort of way that we did not (but this was not specified in the paper). Also, it seems as if they may have plotted a subsample of their data as their plots seem to have fewer points then ours. This is just a thought as the exact subsample that could have been used in the original analyses was not specified. Additionally, there was no git repository for this paper so we were not able to refer to source code or a markdown/readme file explaining their analyses and any data manipulation that was done for this figure.
 
 ### Figure 2B (lower panel)
 
